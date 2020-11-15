@@ -1,5 +1,5 @@
 # Use cloudflare workers to create a Microsoft global sub-number
-# demo: https://m.ur.workers.dev/
+# demo: https://demo.lostastronaut.workers.dev/
 
 
 1 Enter azure AD to create a new app, get tenant id and client id

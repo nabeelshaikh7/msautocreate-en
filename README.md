@@ -25,4 +25,4 @@
 6 Copy the content in index.js to cf workers and fill in the corresponding data
 
 
-(the original author is [Byg zayabighead](https://github.com/zayabighead/msautocreate). The original repository is : [msautocreate](https://github.com/365a1/msautocreate).)
+(the original author is [Byg zayabighead](https://github.com/zayabighead). The original repository is : [msautocreate](https://github.com/365a1/msautocreate).)
